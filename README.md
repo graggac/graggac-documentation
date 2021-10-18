@@ -121,12 +121,6 @@ You can now select play and enjoy the game!
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## FAQ
-
-What do I do after my character has been created?
-
-The game starts! It does a decent job explaining how to move around, interact with objects, etc. The game is not meant to be difficult, so getting into it is pretty easy.
-
 ## Troubleshooting
 
 The Steam community guide that contains a list of issues and fixes can be found [here](CGenerator.md).
