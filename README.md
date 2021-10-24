@@ -3,14 +3,16 @@ title: "Star Wars: Knights of the Old Republic"
 permalink: /
 layout: default
 ---
-# Star Wars: Knights of the Old Repuublic Character Creation Guide
+# Star Wars: Knights of the Old Republic Character Creation Guide
+
+
 
 ## What is KOTOR?
 
 The Knights of The Old Republic is an action role playing game that is in the world of Star Wars. It takes place 4,000 years before the Galactic Empire. In the game, you have a choice of being a light side Jedi and joining the Republic, or you can turn to the dark side and join the Sith Empire.
 
 ## Download
- 
+
 You can download from Steam [here](https://store.steampowered.com/app/32370/STAR_WARS__Knights_of_the_Old_Republic/).
 
 ## Getting Started
@@ -45,7 +47,6 @@ Their basic class attributes include: 8 vitality / level, average skill progress
 Their basic class attributes include: 6 vitality / level, fast skill progression, slow feat progression.
 
 ------------------------------------------------------------------------------------------------------------------------
-
 
 After you have selected your character's sex and class, you will be given a choice to select a quick character or a custom character.
 
