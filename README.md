@@ -10,7 +10,7 @@ layout: default
 The Knights of The Old Republic is an action role playing game that is in the world of Star Wars. It takes place 4,000 years before the Galactic Empire. In the game, you have a choice of being a light side Jedi and joining the Republic, or you can turn to the dark side and join the Sith Empire.
 
 ## Download
-
+ 
 You can download from Steam [here](https://store.steampowered.com/app/32370/STAR_WARS__Knights_of_the_Old_Republic/).
 
 ## Getting Started
