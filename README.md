@@ -1,9 +1,9 @@
 ---
-title: "Star Wars: Knights of the Old Republic"
+title: "Star Wars: Knights of The Old Republic"
 permalink: /
 layout: default
 ---
-# Star Wars: Knights of the Old Republic Character Creation Guide
+# Star Wars: Knights of The Old Republic Character Creation Guide
 
 
 
