@@ -3,7 +3,7 @@ title: "Star Wars: Knights of the Old Republic"
 permalink: /
 layout: default
 ---
-# Star Wars: Knights of the Old Repuublic
+# Star Wars: Knights of the Old Repuublic Character Creation Guide
 
 ## What is KOTOR?
 
@@ -26,19 +26,19 @@ Your three options are soldier, scout, and scoundrel.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-# Soldier
+## Soldier
 
 "Soldiers are masters of combat in all its forms, believing that the best way to survive a fight is to win it.Dexterity, Constitution and Strength are key to an effective soldier."
 
 Their basic class attributes include: 10 vitality / level, slow skill progression, fast feat progression.
 
-# Scout
+## Scout
 
 "Scouts are explorers, trained to understand their surroundings and how to survive in them. Dexterity, Intelligence and Wisdom are the most important abilities of a scout."
 
 Their basic class attributes include: 8 vitality / level, average skill progression, average feat progression.
 
-# Scoundrel
+## Scoundrel
 
 "Scoundrels survive through wit and guile, traits that sometimes place them on the wrong side of the law. Intelligence, Dexterity and Charisma are the trademarks of a scoundrel."
 
@@ -55,7 +55,7 @@ A custom character allows you to edit your character's attributes, skills, and f
 
 ------------------------------------------------------------------------------------------------------------------------
 
-# Attributes
+## Attributes
 
 Attributes apply bonuses or penalties to your character and affect combat, skill checks, and force powers.
 
@@ -75,7 +75,7 @@ Attributes apply bonuses or penalties to your character and affect combat, skill
 
 -----------------------------------------------------------------------------------------------------------------------
 
-# Skills
+## Skills
 
 Skills can be used to perform actions. The skill rank indicates how good your character is with that skill.
 
@@ -91,15 +91,15 @@ Skills can be used to perform actions. The skill rank indicates how good your ch
 
 - **Persuade**: Related to Charisma. Persuade dialogue options use friendly coercion to press for sensitive information or avoid conflict. Higher skill allows for more extreme requests. Only available to the main player-created character.
 
-- **Repair**: Related to Intelligence. Used with disposable partst o fix disabled droids. More difficult repair jobs require more parts. This skill reduces the number of parts required by 1 for every 4 points total. Also modifies vitality points recovered when used by party member droids to repair combat damage.
+- **Repair**: Related to Intelligence. Used with disposable parts to fix disabled droids. More difficult repair jobs require more parts. This skill reduces the number of parts required by 1 for every 4 points total. Also modifies vitality points recovered when used by party member droids to repair combat damage.
 
-- **Security**: Related to Wisdom. Used to open electronic locks.Appears as an option on targeted locked objects. Security spikes in Inventory will also appear as a default option and add to the skill if selected. Only available if the character has paid points into the skill. Cannot be used untrained.
+- **Security**: Related to Wisdom. Used to open electronic locks. Appears as an option on targeted locked objects. Security spikes in Inventory will also appear as a default option and add to the skill if selected. Only available if the character has paid points into the skill. Cannot be used untrained.
 
-- **Treat Injury**: Related to Wisdom. This skill is added to the vitality points healed by medpacs. Higher quality packsapply multipliers to further increase the amount healed.
+- **Treat Injury**: Related to Wisdom. This skill is added to the vitality points healed by medpacs. Higher quality packs apply multipliers to further increase the amount healed.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-# Feats
+## Feats
 
 There are many different feats for many different things within the game. Feats are primarily combat-focused abilities that allow a character to use specific weapons, armor or items. They can also grant special attacks or give bonuses to skills and abilities. Characters are given certain feats during character creation, depending on class. As characters increase in level, they will gain new feats. The following lists the basic Feat Progression Trees available to all characters throughout the game. To select a feat, highlight it by clicking on its icon and then left-click the ADD FEAT button.
 
@@ -107,25 +107,31 @@ There are many different feats for many different things within the game. Feats 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-# Name
+## Name
 
 Your character will have a random name. You can edit the name or choose a random one.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-# Play
+## FAQ
 
-There is nothing left to do in the character creation.
+What do I do when I'm done creating my character?
 
-You can now select play and enjoy the game!
+- You click the play button and begin the game! The game's tutorial is very simple and easy to understand, so you won't have any problems getting used to the controls.
+
+How do I fix the game's screen resolution?
+
+- In the menu, select Options > Graphics > Screen Resolution then select the resolution you want.
 
 -----------------------------------------------------------------------------------------------------------------------
 
 ## Troubleshooting
 
-The Steam community guide that contains a list of issues and fixes can be found [here](CGenerator.md).
+The Steam community guide that contains a list of issues and fixes can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=326825824).
 
 -----------------------------------------------------------------------------------------------------------------------
+
+Star Wars: Knights of the Old Republic is (c)2003 BioWare Inc.
 
 2003 • BioWare • Aspyr
 
